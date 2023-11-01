@@ -1,8 +1,18 @@
-# Listmaker
-listmaker
+## 🎵Listmaker
+Thorough this app, on the first page you can add a list and define a name for your list, then tap the same list to add elements.
 
-This is one of the my first projects. I have implemented key topics such as shared preferences ,material design (Card View), viewModel, recycler View for the first time. 
+## NewsApp
 
+<img src="news.gif" width="200">
 
-![page 1](https://github.com/bilalceng/Listmaker/blob/master/Screenshot_20230426_015415.png)
-![page 2](https://github.com/bilalceng/Listmaker/blob/master/Screenshot_20230426_015508.png)
+## 🚀 Features
+
+- 📄 Adding list : .
+
+## 💻 Technologies
+
+- 📱 Shared preferences
+- 🎯 Kotlin
+- ☎️ Android studio
+- 📜 Dialog with edit text  
+- 📦 Material Design 
