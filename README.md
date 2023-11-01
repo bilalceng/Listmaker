@@ -7,7 +7,7 @@ Thorough this app, on the first page you can add a list and define a name for yo
 
 ## 🚀 Features
 
-- 📄 Adding list : .
+- 📄 Adding list : You can create list and fill its content.
 
 ## 💻 Technologies
 
