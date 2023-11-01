@@ -3,7 +3,7 @@ Thorough this app, on the first page you can add a list and define a name for yo
 
 ## NewsApp
 
-<img src="news.gif" width="200">
+<img src="listmaker.gif" width="200">
 
 ## 🚀 Features
 
